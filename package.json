@@ -1,0 +1,14 @@
+{
+ "name": "my-project",
+ "version": "1.0.0",
+ "description": "Uma breve descrição do seu projeto",
+ "main": "whatsappbot.js",
+ "scripts": {
+   "start": "node index.js"
+ },
+ "dependencies": {
+   "whatsapp-web.js": "",
+   "qrcode-terminal": ""
+ }
+}
+
